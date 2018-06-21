@@ -6,6 +6,11 @@ It is useful if you want to access challenges from your VPS.
 
 .. _RootMe: https://www.root-me.org/?page=faq&lang=en
 
+Status
+------
+
+Incompleted.
+
 Dependencies
 ------------
 
